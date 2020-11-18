@@ -1,0 +1,12 @@
+{
+  "vale-off": {
+    "prefix": "vale-off",
+    "body": ["<!-- vale off -->"],
+    "description": "vale-off"
+  },
+  "vale-on": {
+    "prefix": "vale-on",
+    "body": ["<!-- vale on -->"],
+    "description": "vale-on"
+  }
+}
