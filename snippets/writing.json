@@ -17,7 +17,7 @@
     "description": "Disable Link Check"
   },
   "md-link-on": {
-    "prefix": "md-link-ofn",
+    "prefix": "md-link-on",
     "body": [
       "<!-- markdown-link-check-enable -->"
     ],
