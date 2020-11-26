@@ -34,8 +34,18 @@ Custom snippets for (technical) writing with Markdown
 
 ### Vale
 
+[Vale](https://docs.errata.ai/vale/about) is a command-line tool that brings code-like linting to prose
+
 - `vale-off`: Disable Vale
 - `vale-on`: Enable Vale
+
+### Markdown-Link-Check
+
+[Markdown-Link-Check](https://github.com/tcort/markdown-link-check) extracts links
+from markdown texts and checks whether each link is alive (`200 OK`) or dead.
+
+- `md-link-off`: Disable link-check
+- `md-link-on`: Enable link-check
 
 ## Contributing
 

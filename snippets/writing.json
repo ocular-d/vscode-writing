@@ -8,5 +8,19 @@
     "prefix": "vale-on",
     "body": ["<!-- vale on -->"],
     "description": "vale-on"
+  },
+  "md-link-off": {
+    "prefix": "md-link-off",
+    "body": [
+      "<!-- markdown-link-check-disable -->"
+    ],
+    "description": "Disable Link Check"
+  },
+  "md-link-on": {
+    "prefix": "md-link-ofn",
+    "body": [
+      "<!-- markdown-link-check-enable -->"
+    ],
+    "description": "Enable Link Check"
   }
 }
