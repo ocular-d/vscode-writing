@@ -22,5 +22,19 @@
       "<!-- markdown-link-check-enable -->"
     ],
     "description": "Enable Link Check"
+  },
+  "md-lint-disable": {
+    "prefix": "md-lint-disable",
+    "body": [
+      "<!-- markdownlint-disable -->"
+    ],
+    "description": "Disable Markdown Lint"
+  },
+  "md-lint-enable": {
+    "prefix": "md-lint-enable",
+    "body": [
+      "<!-- markdownlint-enable -->"
+    ],
+    "description": "Enable Markdown Lint"
   }
 }

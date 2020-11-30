@@ -3,7 +3,7 @@
     "displayName": "(Technical) Writing Snippets",
     "publisher": "ocular-d",
     "description": "Snippets for (technical) writing with Markdown",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.51.0"
     },

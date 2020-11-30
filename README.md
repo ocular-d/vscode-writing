@@ -47,6 +47,12 @@ from markdown texts and checks whether each link is alive (`200 OK`) or dead.
 - `md-link-off`: Disable link-check
 - `md-link-on`: Enable link-check
 
+### Markdownlint
+
+[A Node.js style checker and lint tool for Markdown/CommonMark files](https://github.com/DavidAnson/markdownlint#configuration).
+
+- `md-lint-disable`: Disable markdownlint
+- `md-lint-enable`: Enable markdownlint
 ## Contributing
 
 We are a community effort, and everybody is most welcome to participate!
