@@ -28,7 +28,7 @@
 
 ## About
 
-Custom snippets for (technical) writing with Markdown
+Custom snippets for (technical) writing with Markdown.
 
 ## Usage
 
@@ -53,6 +53,21 @@ from markdown texts and checks whether each link is alive (`200 OK`) or dead.
 
 - `md-lint-disable`: Disable markdownlint
 - `md-lint-enable`: Enable markdownlint
+
+### Alex
+
+[Alex — Catch insensitive, inconsiderate writing](https://github.com/get-alex/alex)
+
+- `alex-disable`: Disable alex
+- `alex-enable`: Enable alex
+
+### CSpell
+
+[A Spell Checker for Code](https://cspell.org/)
+
+- `cspell-disable`: Disable cspell
+- `cspell-enable`: Enable cspell
+
 ## Contributing
 
 We are a community effort, and everybody is most welcome to participate!
