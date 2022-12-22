@@ -2,13 +2,17 @@
     "name": "writing",
     "displayName": "(Technical) Writing Snippets",
     "publisher": "ocular-d",
-    "description": "Snippets for (technical) writing with Markdown",
-    "version": "0.0.3",
+    "description": "Snippets for (technical) writing in Markdown",
+    "version": "0.0.4",
     "engines": {
-        "vscode": "^1.51.0"
+        "vscode": "^1.74.0"
     },
     "categories": [
         "Snippets"
+    ],
+    "keywords": [
+        "writing",
+        "markdown"
     ],
     "repository": {
         "type": "git",

@@ -1,16 +1,19 @@
 {
   "vale-off": {
     "prefix": "vale-off",
+    "scope": "markdown,mdx",
     "body": ["<!-- vale off -->"],
     "description": "vale-off"
   },
   "vale-on": {
     "prefix": "vale-on",
+    "scope": "markdown,mdx",
     "body": ["<!-- vale on -->"],
     "description": "vale-on"
   },
   "md-link-off": {
     "prefix": "md-link-off",
+    "scope": "markdown.mdx",
     "body": [
       "<!-- markdown-link-check-disable -->"
     ],
@@ -18,6 +21,7 @@
   },
   "md-link-on": {
     "prefix": "md-link-on",
+    "scope": "markdown,mdx",
     "body": [
       "<!-- markdown-link-check-enable -->"
     ],
@@ -25,6 +29,7 @@
   },
   "md-lint-disable": {
     "prefix": "md-lint-disable",
+    "scope": "markdown,mdx",
     "body": [
       "<!-- markdownlint-disable -->"
     ],
@@ -32,9 +37,42 @@
   },
   "md-lint-enable": {
     "prefix": "md-lint-enable",
+    "scope": "markdown,mdx",
     "body": [
       "<!-- markdownlint-enable -->"
     ],
     "description": "Enable Markdown Lint"
+  },
+  "alex-disable": {
+    "prefix": "alex-disable",
+    "scope": "markdown,mdx",
+    "body": [
+      "<!--alex disable ${1:word}-->"
+    ],
+    "description": "alex-disable"
+  },
+  "alex-enable": {
+    "prefix": "alex-enable",
+    "scope": "markdown,mdx",
+    "body": [
+      "<!--alex enable ${1:word}-->"
+    ],
+    "description": "alex-enable"
+  },
+  "cpell-disable": {
+    "prefix": "cpell-disable",
+    "scope": "markdown,mdx",
+    "body": [
+      "<!-- cSpell:disable -->"
+    ],
+    "description": "cpell-disable"
+  },
+  "cpell-enable": {
+    "prefix": "cpell-enable",
+    "scope": "markdown,mdx",
+    "body": [
+      "<!-- cSpell:enable -->"
+    ],
+    "description": "cpell-enable"
   }
 }
